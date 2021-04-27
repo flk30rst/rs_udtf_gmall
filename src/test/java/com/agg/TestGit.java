@@ -19,5 +19,6 @@ public class TestGit {
 
         System.out.println("push gitee");
 
+        System.out.println("clone gitee");
     }
 }
