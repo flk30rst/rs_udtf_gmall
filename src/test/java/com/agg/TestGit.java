@@ -13,5 +13,7 @@ public class TestGit {
         System.out.println("push demo test");
         System.out.println("pull demo test");
         System.out.println("flink-streaming");
+        System.out.println("spark-streaming and scala");
+
     }
 }
