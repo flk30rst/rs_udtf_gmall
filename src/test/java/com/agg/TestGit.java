@@ -17,5 +17,7 @@ public class TestGit {
 
         System.out.println("test gitee");
 
+        System.out.println("push gitee");
+
     }
 }
