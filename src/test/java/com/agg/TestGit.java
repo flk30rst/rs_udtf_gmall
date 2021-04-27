@@ -11,5 +11,7 @@ public class TestGit {
         System.out.println("at hot-fix");
 
         System.out.println("push demo test");
+        System.out.println("pull demo test");
+        System.out.println("flink-streaming");
     }
 }
