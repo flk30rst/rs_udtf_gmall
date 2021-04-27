@@ -8,5 +8,7 @@ public class TestGit {
         System.out.println("hot-fix modify");
 
         System.out.println("at master");
+        System.out.println("at hot-fix");
+
     }
 }
