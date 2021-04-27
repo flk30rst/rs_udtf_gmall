@@ -15,5 +15,7 @@ public class TestGit {
         System.out.println("flink-streaming");
         System.out.println("spark-streaming and scala");
 
+        System.out.println("test gitee");
+
     }
 }
