@@ -20,5 +20,7 @@ public class TestGit {
         System.out.println("push gitee");
 
         System.out.println("clone gitee");
+
+        System.out.println("pull from gitee for latest version")
     }
 }
