@@ -10,5 +10,6 @@ public class TestGit {
         System.out.println("at master");
         System.out.println("at hot-fix");
 
+        System.out.println("push demo test");
     }
 }
